@@ -1,0 +1,12 @@
+name: FranekTimePvP
+version: '1.0'
+main: dev.franek.timepvp.FranekTimePvP
+api-version: '1.16'
+author: franekk
+website: https://github.com/Blejziak
+description: Plugin made by franekk - https://github.com/Blejziak
+commands:
+  timepvp:
+    description: Przeladowuje konfiguracje pluginu FranekTimePvP
+    usage: /timepvp reload
+    permission: franek.timepvp.admin
